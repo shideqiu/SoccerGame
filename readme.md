@@ -1,4 +1,4 @@
-# Soccer Game Experiment (Friend-Q, Foe-Q, and CE-Q)
+# Soccer Game Experiment (Friend-Q, Foe-Q, and CE-Q) ([Report](report_final.pdf))
 
 ## Introduction
 
